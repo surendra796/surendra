@@ -1,2 +1,6 @@
 print "Hello world"
+<<<<<<< HEAD
 print "feature2"
+=======
+print "feature1"
+>>>>>>> feature1
